@@ -14,7 +14,7 @@ function Home() {
       <div className='home mt-5'>
       <Carousel>
       <Carousel.Item>
-        <img src="https://www.kotak.com/content/dam/Kotak/product_card_images/how-credit-cards-enhance-your-shopping-experience.jpg" alt="" />
+        <img src="https://www.kotak.com/content/dam/Kotak/product_card_images/how-credit-cards-enhance-your-shopping-experience.jpg" alt="no image" />
         <Carousel.Caption>
           <Row>
             <Col md={6} className='p-5'>
@@ -30,7 +30,7 @@ function Home() {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img src="https://www.searchenginejournal.com/wp-content/uploads/2022/08/google-shopping-ads-6304dccb7a49e-sej.png" alt="" />
+        <img src="https://www.searchenginejournal.com/wp-content/uploads/2022/08/google-shopping-ads-6304dccb7a49e-sej.png" alt="no image" />
         <Carousel.Caption>
         <Row>
             <Col md={6} className='p-5'>
@@ -46,7 +46,7 @@ function Home() {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img src="https://www.kotak.com/content/dam/Kotak/article-images/shopping-for-new-year-why-use-your-credit-card-d.jpg" alt="" />
+        <img src="https://www.kotak.com/content/dam/Kotak/article-images/shopping-for-new-year-why-use-your-credit-card-d.jpg" alt="no image" />
         <Carousel.Caption>
         <Row>
             <Col md={6} className='p-5'>
@@ -70,16 +70,16 @@ function Home() {
                 <p>Problems trying to solve the conflict between</p>
                 <Row>
                     <Col md={4}>
-                        <img className='mt-2' src="https://images.pexels.com/photos/1689731/pexels-photo-1689731.jpeg?cs=srgb&dl=pexels-harsh-kushwaha-1689731.jpg&fm=jpg" alt="" />
+                        <img className='mt-2' src="https://images.pexels.com/photos/1689731/pexels-photo-1689731.jpeg?cs=srgb&dl=pexels-harsh-kushwaha-1689731.jpg&fm=jpg" alt="no image" />
                         
                     </Col>
                     <Col md={4}>
-                        <img className='mt-2' src="https://5.imimg.com/data5/ANDROID/Default/2021/7/UX/AW/BK/39958304/132230746-425358982178250-7374844770133219684-n-jpg-500x500.jpg" alt="" />
+                        <img className='mt-2' src="https://5.imimg.com/data5/ANDROID/Default/2021/7/UX/AW/BK/39958304/132230746-425358982178250-7374844770133219684-n-jpg-500x500.jpg" alt="no image" />
                     </Col>
                     <Col md={4} className='image'>
-                        <img className='mb-3 mt-2' src="https://media.istockphoto.com/id/973481674/photo/stylish-man-posing-on-grey-background.jpg?s=612x612&w=0&k=20&c=zn4YXiU1RX4-DHz8XNSSB3PoEKBxpfeFtRTESWX6OWQ=" alt="" />
+                        <img className='mb-3 mt-2' src="https://media.istockphoto.com/id/973481674/photo/stylish-man-posing-on-grey-background.jpg?s=612x612&w=0&k=20&c=zn4YXiU1RX4-DHz8XNSSB3PoEKBxpfeFtRTESWX6OWQ=" alt="no image" />
 
-                        <img  src="https://www.stylecraze.com/wp-content/uploads/2018/03/Top-10-Instagram-Models-You-Need-To-Follow-267x300.jpg" alt="" />
+                        <img  src="https://www.stylecraze.com/wp-content/uploads/2018/03/Top-10-Instagram-Models-You-Need-To-Follow-267x300.jpg" alt="no image" />
                     </Col>
                 </Row>
             </Container>
@@ -92,7 +92,7 @@ function Home() {
         <Container>
             <Row>
                 <Col md={3}>
-                    <img className='mb-4' src="https://t3.ftcdn.net/jpg/06/46/00/00/360_F_646000029_JTtTlIY4MgOhl6U36hjDFsRjzMkRw9d1.jpg" alt="" />
+                    <img className='mb-4 mt-4' src="https://t3.ftcdn.net/jpg/06/46/00/00/360_F_646000029_JTtTlIY4MgOhl6U36hjDFsRjzMkRw9d1.jpg" alt="no image" />
                     <h5>Graphic Design</h5>
                     <p>English Department</p>
                     <p>$16.87 <span className='text-success'>$16.45</span></p>
@@ -103,7 +103,7 @@ function Home() {
 
                 </Col>
                 <Col md={3}>
-                <img className='mb-4' src="https://imagescdn.planetfashion.in/img/app/product/8/817204-9766171.jpg?auto=format&w=494.40000000000003" alt="" />
+                <img className='mb-4 mt-4' src="https://imagescdn.planetfashion.in/img/app/product/8/817204-9766171.jpg?auto=format&w=494.40000000000003" alt="no image" />
                     <h5>Graphic Design</h5>
                     <p>English Department</p>
                     <p>$16.87 <span className='text-success'>$16.45</span></p>
@@ -113,7 +113,7 @@ function Home() {
                    <button className='btn4 ms-1'></button>
                 </Col>
                 <Col md={3}>
-                <img className='mb-4' src="https://assets.ajio.com/medias/sys_master/root/20210615/DnnR/60c8c1beaeb269a9e3e958b5/-288Wx360H-460899526-pink-MODEL.jpg" alt="" />
+                <img className='mb-4 mt-4' src="https://assets.ajio.com/medias/sys_master/root/20210615/DnnR/60c8c1beaeb269a9e3e958b5/-288Wx360H-460899526-pink-MODEL.jpg" alt="no image" />
                     <h5>Graphic Design</h5>
                     <p>English Department</p>
                     <p>$16.87 <span className='text-success'>$16.45</span></p>
@@ -123,7 +123,7 @@ function Home() {
                    <button className='btn4 ms-1'></button>
                 </Col>
                 <Col md={3}>
-                <img className='mb-4' src="https://assets.ajio.com/medias/sys_master/root/20220601/EFRw/62968219f997dd03e252cc05/-473Wx593H-464414915-black-MODEL.jpg" alt="" />
+                <img className='mb-4 mt-4' src="https://assets.ajio.com/medias/sys_master/root/20220601/EFRw/62968219f997dd03e252cc05/-473Wx593H-464414915-black-MODEL.jpg" alt="no image" />
                     <h5>Graphic Design</h5>
                     <p>English Department</p>
                     <p>$16.87 <span className='text-success'>$16.45</span></p>
@@ -135,7 +135,7 @@ function Home() {
             </Row>
             <Row className='mt-5'>
                 <Col md={3}>
-                    <img className='mb-4' src="https://imagescdn.planetfashion.in/img/app/product/8/806982-9588630.jpg?auto=format&w=494.40000000000003" alt="" />
+                    <img className='mb-4 mt-' src="https://imagescdn.planetfashion.in/img/app/product/8/806982-9588630.jpg?auto=format&w=494.40000000000003" alt="no image" />
                     <h5>Graphic Design</h5>
                     <p>English Department</p>
                     <p>$16.87 <span className='text-success'>$16.45</span></p>
@@ -145,7 +145,7 @@ function Home() {
                    <button className='btn4 ms-1'></button>
                 </Col>
                 <Col md={3}>
-                <img className='mb-4' src="https://www.fashionnova.com/cdn/shop/products/09-02-21Studio2_RM_KP_11-10-08_17_FD40100_Black_1171_EH_468x.jpg?v=1630688319" alt="" />
+                <img className='mb-4 mt-4' src="https://www.fashionnova.com/cdn/shop/products/09-02-21Studio2_RM_KP_11-10-08_17_FD40100_Black_1171_EH_468x.jpg?v=1630688319" alt="no image" />
                     <h5>Graphic Design</h5>
                     <p>English Department</p>
                     <p>$16.87 <span className='text-success'>$16.45</span></p>
@@ -155,7 +155,7 @@ function Home() {
                    <button className='btn4 ms-1'></button>
                 </Col>
                 <Col md={3}>
-                <img className='mb-4' src="https://www.fashionnova.com/cdn/shop/products/12-02-21Studio2_SN_TB_11-35-50_29_1694MD_Black_1509_MH.jpg?v=1638810504" alt="" />
+                <img className='mb-4 mt-4' src="https://www.fashionnova.com/cdn/shop/products/12-02-21Studio2_SN_TB_11-35-50_29_1694MD_Black_1509_MH.jpg?v=1638810504" alt="no image" />
                     <h5>Graphic Design</h5>
                     <p>English Department</p>
                     <p>$16.87 <span className='text-success'>$16.45</span></p>
@@ -165,7 +165,7 @@ function Home() {
                    <button className='btn4 ms-1'></button>
                 </Col>
                 <Col md={3}>
-                <img className='mb-4' src="https://media.boohoo.com/i/boohoo/fzz47724_black_xl?$product_image_main_mobile$&fmt=webp" alt="" />
+                <img className='mb-4 mt-4' src="https://media.boohoo.com/i/boohoo/fzz47724_black_xl?$product_image_main_mobile$&fmt=webp" alt="no image" />
                     <h5>Graphic Design</h5>
                     <p>English Department</p>
                     <p>$16.87 <span className='text-success'>$16.45</span></p>
@@ -178,10 +178,10 @@ function Home() {
         </Container>
       </div>
 
-      <div className='mt-5'>
+      <div className='home mt-5'>
       <Carousel>
       <Carousel.Item>
-        <img style={{width:'100%',height:'80vh'}} src="https://st4.depositphotos.com/13193658/30137/i/450/depositphotos_301375510-stock-illustration-young-woman-holding-credit-card.jpg" alt="" />
+        <img style={{width:'100%',height:'80vh'}} src="https://st4.depositphotos.com/13193658/30137/i/450/depositphotos_301375510-stock-illustration-young-woman-holding-credit-card.jpg" alt="no image" />
         <Carousel.Caption>
           <Row>
             <Col md={6} className='p-5'>
@@ -190,8 +190,8 @@ function Home() {
                 <p className='mb-4'>We know how large object will act, <br />
                 but things on a small scale</p>
                <div className='d-flex'>
-                    <h1 className='me-5 mb-5'>$6.45</h1>
-                    <button className='btn btn-success mb-5'>ADD TO CART</button>
+                    <h1 className='ms-5 me-5 mb-5'>$6.45</h1>
+                    <button className='btn btn-success mb-5'>Add to cart</button>
                </div>
             </Col>
             <Col md={6}>
@@ -206,7 +206,7 @@ function Home() {
         <Container>
             <Row>
                 <Col md={6}>
-                    <img style={{width:'100%'}} src="https://media.istockphoto.com/id/489803256/photo/below-view-of-young-cheerful-family-in-shopping.jpg?s=612x612&w=0&k=20&c=KcmaBiURs_ChPFCdvNKhmTD5AVEiUxM4MmANitqioz4=" alt="" />
+                    <img style={{width:'100%'}} src="https://media.istockphoto.com/id/489803256/photo/below-view-of-young-cheerful-family-in-shopping.jpg?s=612x612&w=0&k=20&c=KcmaBiURs_ChPFCdvNKhmTD5AVEiUxM4MmANitqioz4=" alt="no image" />
                 </Col>
                 <Col md={6} className='mt-5 '>
                     <h4 className='mt-5'>SUMMER 2020</h4>
@@ -223,11 +223,11 @@ function Home() {
       <div className='mt-5'>
         <h4 className='text-info text-center'>Practice Advice</h4>
         <h1 className='text-center'>Features Posts</h1>
-        <p className='text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. <br /> Saepe ipsum dolore ea. Ipsam, ad. Officia numquam, tenetur rem </p>
+        <p className='text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         <Container>
             <Row className='images mt-5 mb-5'>
                 <Col md={4} className='Card shadow'>
-                    <img src="https://img.freepik.com/premium-photo/empty-road-floor-surface-with-modern-city_1112-4175.jpg" alt="" />
+                    <img src="https://img.freepik.com/premium-photo/empty-road-floor-surface-with-modern-city_1112-4175.jpg" alt="no image" />
                     <div className='d-flex ms-2 mt-4'>
                         <p className='text-info'>Google</p>
                         <p className='ms-2'>Trending</p>
@@ -242,7 +242,7 @@ function Home() {
                     <p className='me-5'>Learn More <i class="fa-solid fa-greater-than ms-3 text-success"></i></p>
                 </Col>
                 <Col md={4} className='Card shadow'>
-                <img src="https://st2.depositphotos.com/2018581/5789/i/950/depositphotos_57896199-stock-photo-many-umbrellas-hang-on-trees.jpg" alt="" />
+                <img src="https://st2.depositphotos.com/2018581/5789/i/950/depositphotos_57896199-stock-photo-many-umbrellas-hang-on-trees.jpg" alt="no image" />
                     <div className='d-flex ms-2 mt-4'>
                         <p className='text-info'>Google</p>
                         <p className='ms-3'>Trending</p>
@@ -257,7 +257,7 @@ function Home() {
                     <p className='me-5'>Learn More <i class="fa-solid fa-greater-than ms-3 text-success"></i></p>
                 </Col>
                 <Col md={4} className='Card shadow'>
-                <img src="https://www.umbrellaworkshop.com/wp-content/uploads/2020/01/5-unusual-ways-to-use-an-umbrella.jpg" alt="" />
+                <img src="https://www.umbrellaworkshop.com/wp-content/uploads/2020/01/5-unusual-ways-to-use-an-umbrella.jpg" alt="no image" />
                     <div className='d-flex mt-4'>
                         <p className='text-info'>Google</p>
                         <p className='ms-3'>Trending</p>

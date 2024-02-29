@@ -42,7 +42,7 @@ function Footer() {
                   <div className='d-flex'>  <input type="email" name="" id="" placeholder='Enter email' style={{height:'50px'}} className='me-1'/><Button variant="contained">Contained</Button></div>
                   <p>We are the best</p>
                 </Col>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum expedita provident exercitationem! Dolores magni, </p>
+                <p className='mt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum expedita provident exercitationem! Dolores magni, </p>
             </Row>
         </Container>
     </div> 

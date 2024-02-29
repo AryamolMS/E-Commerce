@@ -28,22 +28,26 @@
     height: 20px;
     background-color: red;
     border-radius: 50%;
+    border: none;
 }
 .btn2{
     width: 20px;
     height: 20px;
     background-color: yellow;
     border-radius: 50%;
+    border: none;
 }
 .btn3{
     width: 20px;
     height: 20px;
     background-color: blue;
     border-radius: 50%;
+    border: none;
 }
 .btn4{
     width: 20px;
     height: 20px;
     background-color: black;
     border-radius: 50%;
+    border: none;
 }

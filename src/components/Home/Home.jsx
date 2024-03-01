@@ -266,8 +266,8 @@ function Home() {
                     <h4  className='text-center'>We provide better experience</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem nemo natus ad repellendus! Enim ea repellend</p>
                     <div className='d-flex'>
-                        <p className='ms-4'><i class="fa-solid fa-clock"></i>  22 April 2023</p>
-                       <p className='ms-5'> <i class="fa-solid fa-image"></i> 10 comments</p>
+                        <p className='ms-4'><i class="fa-solid fa-clock text-info"></i>  22 April 2023</p>
+                       <p className='ms-5'> <i class="fa-solid fa-image text-success"></i> 10 comments</p>
                     </div>
                     <p className='me-5'>Learn More <i class="fa-solid fa-greater-than ms-3 text-success"></i></p>
                 </Col>

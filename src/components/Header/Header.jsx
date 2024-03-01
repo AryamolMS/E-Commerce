@@ -36,10 +36,10 @@ function Header() {
         </Navbar.Collapse>
         <div className='p-2 m-1'> 
             
-            <p> <i class="fa-regular fa-user me-2"></i>  Login / Register
-            <i class="fa-solid fa-magnifying-glass ms-3"></i>
-            <i class="fa-solid fa-cart-shopping ms-3"></i>
-            <i class="fa-regular fa-heart ms-3"></i>
+            <p className='text-info'> <i class="fa-regular fa-user me-2"></i>  Login / Register
+            <i class="fa-solid fa-magnifying-glass ms-3 text-info"></i>
+            <i class="fa-solid fa-cart-shopping ms-3 text-info"> 1</i>
+            <i class="fa-regular fa-heart ms-3 text-info"> 1</i>
 </p>
         </div>
       </Container>
